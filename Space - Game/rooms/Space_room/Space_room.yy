@@ -19,10 +19,9 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4961193F","properties":[],"isDnd":false,"objectId":{"name":"ship","path":"objects/ship/ship.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":736.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
-    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"map_tile","tilesetId":{"name":"spacer_background_tile","path":"tilesets/spacer_background_tile/spacer_background_tile.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":43,"SerialiseHeight":24,"TileCompressedData":[
--11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,1,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,1,-32,-2147483648,-11,2,-32,
--2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,1,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,-32,-2147483648,-11,2,
--32,-2147483648,-11,2,-32,-2147483648,-11,1,-32,-2147483648,],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
+    {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"map_tile","tilesetId":{"name":"spacer_background_tile","path":"tilesets/spacer_background_tile/spacer_background_tile.yy",},"x":0,"y":0,"tiles":{"TileDataFormat":1,"SerialiseWidth":11,"SerialiseHeight":24,"TileCompressedData":[
+-22,2,-11,1,-66,2,-11,1,-66,2,-11,
+1,-66,2,-11,1,],},"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","spriteId":null,"colour":4278190080,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritVisibility":true,"inheritSubLayers":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
   ],
   "inheritLayers": false,
@@ -35,7 +34,7 @@
   "sequenceId": null,
   "roomSettings": {
     "inheritRoomSettings": false,
-    "Width": 1366,
+    "Width": 352,
     "Height": 768,
     "persistent": false,
   },
