@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "ship",
   "spriteId": {
-    "name": "ship_spr",
-    "path": "sprites/ship_spr/ship_spr.yy",
+    "name": "ship_spr_final",
+    "path": "sprites/ship_spr_final/ship_spr_final.yy",
   },
   "solid": false,
   "visible": true,
