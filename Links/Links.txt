@@ -1,0 +1,8 @@
+Gamemaker studio 2 - Crash Course
+https://www.youtube.com/watch?v=o5kout6Ok3Q&t=1322s
+
+Frogger inspired game - Tutorial
+https://www.youtube.com/watch?v=t5ldTpx3amw
+
+Space Rocks - Gamemaker Tutorial
+https://gamemaker.io/en/tutorials/make-arcade-space-shooter
