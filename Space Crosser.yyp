@@ -6,9 +6,9 @@
     {"id":{"name":"ship","path":"objects/ship/ship.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Main","path":"options/main/options_main.yy",},
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
   ],
   "defaultScriptType": 0,
   "isEcma": false,

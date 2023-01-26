@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Movement.Jump_To_Start
+/// @DnDVersion : 1
+/// @DnDHash : 06E06299
+x = xstart;
+y = ystart;
+
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 3A1FEC40
