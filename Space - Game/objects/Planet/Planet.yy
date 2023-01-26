@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Planet",
-  "spriteId": null,
+  "spriteId": {
+    "name": "planet_spr",
+    "path": "sprites/planet_spr/planet_spr.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

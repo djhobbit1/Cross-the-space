@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "black_hole",
+  "name": "Score",
   "spriteId": {
-    "name": "black_hole_spr",
-    "path": "sprites/black_hole_spr/black_hole_spr.yy",
+    "name": "score_spr",
+    "path": "sprites/score_spr/score_spr.yy",
   },
   "solid": false,
   "visible": false,

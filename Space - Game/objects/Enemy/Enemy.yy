@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "black_hole",
-  "spriteId": {
-    "name": "black_hole_spr",
-    "path": "sprites/black_hole_spr/black_hole_spr.yy",
-  },
+  "name": "Enemy",
+  "spriteId": null,
   "solid": false,
   "visible": false,
   "managed": true,
