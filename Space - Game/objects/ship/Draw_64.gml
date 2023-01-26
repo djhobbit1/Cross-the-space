@@ -15,8 +15,8 @@ draw_set_font(Minecraft);
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
 /// @DnDHash : 77D7D824
-/// @DnDArgument : "x" "32"
-/// @DnDArgument : "y" "10"
+/// @DnDArgument : "x" "10"
+/// @DnDArgument : "y" "9"
 /// @DnDArgument : "caption" ""SCORE: ""
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(32, 10, string("SCORE: ") + string(__dnd_score));
+draw_text(10, 9, string("SCORE: ") + string(__dnd_score));

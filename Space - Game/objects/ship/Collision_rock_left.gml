@@ -4,18 +4,18 @@
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "where" "1"
-/// @DnDArgument : "size" "1"
 /// @DnDArgument : "color" "$FF21A6FF"
-effect_create_above(0, x + 0, y + 0, 1, $FF21A6FF & $ffffff);
+effect_create_above(0, x + 0, y + 0, 0, $FF21A6FF & $ffffff);
 
-/// @DnDAction : YoYo Games.Movement.Jump_To_Start
+/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
-/// @DnDHash : 173DD3CA
-x = xstart;
-y = ystart;
+/// @DnDHash : 6BDDC902
+/// @DnDArgument : "room" "Game_over"
+/// @DnDSaveInfo : "room" "Game_over"
+room_goto(Game_over);
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
-/// @DnDHash : 6AA41C01
+/// @DnDHash : 454CAADE
 
 __dnd_score = real(0);

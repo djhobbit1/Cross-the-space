@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Enemy",
+  "name": "Try_Again",
   "spriteId": {
-    "name": "enemy_spr",
-    "path": "sprites/enemy_spr/enemy_spr.yy",
+    "name": "play_again_spr",
+    "path": "sprites/play_again_spr/play_again_spr.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":13,"eventType":5,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
