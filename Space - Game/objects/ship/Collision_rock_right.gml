@@ -14,7 +14,8 @@ effect_create_above(0, x + 0, y + 0, 1, $FF21A6FF & $ffffff);
 x = xstart;
 y = ystart;
 
-/// @DnDAction : YoYo Games.Game.Restart_Game
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
-/// @DnDHash : 1DA56BE1
-game_restart();
+/// @DnDHash : 74D3A279
+
+__dnd_score = real(0);
