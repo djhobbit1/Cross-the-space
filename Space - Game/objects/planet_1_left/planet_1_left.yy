@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "planet_right",
+  "name": "planet_1_left",
   "spriteId": {
-    "name": "planet_spr",
-    "path": "sprites/planet_spr/planet_spr.yy",
+    "name": "planet_1_spr",
+    "path": "sprites/planet_1_spr/planet_1_spr.yy",
   },
   "solid": false,
   "visible": true,
