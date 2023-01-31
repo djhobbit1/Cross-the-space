@@ -17,6 +17,7 @@
     {"id":{"name":"enemy_spr","path":"sprites/enemy_spr/enemy_spr.yy",},"order":10,},
     {"id":{"name":"Large_Thruster","path":"sprites/Large_Thruster/Large_Thruster.yy",},"order":5,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":15,},
+    {"id":{"name":"background_tile","path":"sprites/background_tile/background_tile.yy",},"order":1,},
     {"id":{"name":"Game_over","path":"rooms/Game_over/Game_over.yy",},"order":1,},
     {"id":{"name":"scrap_left","path":"objects/scrap_left/scrap_left.yy",},"order":1,},
     {"id":{"name":"background_back","path":"sprites/background_back/background_back.yy",},"order":0,},
