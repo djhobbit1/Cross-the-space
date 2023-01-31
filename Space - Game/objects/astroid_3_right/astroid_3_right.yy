@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "rock_left",
+  "name": "astroid_3_right",
   "spriteId": {
-    "name": "space_rocks_spr",
-    "path": "sprites/space_rocks_spr/space_rocks_spr.yy",
+    "name": "astroid_3_spr",
+    "path": "sprites/astroid_3_spr/astroid_3_spr.yy",
   },
   "solid": false,
   "visible": true,
