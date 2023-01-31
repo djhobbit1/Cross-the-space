@@ -7,7 +7,7 @@
     "path": "sprites/black_hole_spr/black_hole_spr.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Space Crosser",
   "resources": [
+    {"id":{"name":"black_hole_sprite","path":"sprites/black_hole_sprite/black_hole_sprite.yy",},"order":16,},
     {"id":{"name":"spacer_background_tile","path":"tilesets/spacer_background_tile/spacer_background_tile.yy",},"order":0,},
     {"id":{"name":"Score","path":"objects/Score/Score.yy",},"order":9,},
     {"id":{"name":"Try_Again","path":"objects/Try_Again/Try_Again.yy",},"order":11,},
@@ -45,7 +46,7 @@
     {"id":{"name":"Space_room","path":"rooms/Space_room/Space_room.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
   ],
