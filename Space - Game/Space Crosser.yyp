@@ -28,7 +28,7 @@
     {"id":{"name":"planet_3_spr","path":"sprites/planet_3_spr/planet_3_spr.yy",},"order":17,},
     {"id":{"name":"astroid_2_spr","path":"sprites/astroid_2_spr/astroid_2_spr.yy",},"order":13,},
     {"id":{"name":"Large_Thruster","path":"sprites/Large_Thruster/Large_Thruster.yy",},"order":5,},
-    {"id":{"name":"astroid_1_spr","path":"sprites/astroid_1_spr/astroid_1_spr.yy",},"order":12,},
+    {"id":{"name":"astroid_1_spr","path":"sprites/astroid_1_spr/astroid_1_spr.yy",},"order":0,},
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":15,},
     {"id":{"name":"background_tile","path":"sprites/background_tile/background_tile.yy",},"order":1,},
     {"id":{"name":"Game_over","path":"rooms/Game_over/Game_over.yy",},"order":1,},
@@ -56,7 +56,7 @@
     {"id":{"name":"Space_room","path":"rooms/Space_room/Space_room.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
   ],

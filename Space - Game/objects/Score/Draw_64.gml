@@ -1,20 +1,20 @@
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
-/// @DnDHash : 1F152B3A
+/// @DnDHash : 65B97F98
 draw_set_colour($FFFFFFFF & $ffffff);
-var l1F152B3A_0=($FFFFFFFF >> 24);
-draw_set_alpha(l1F152B3A_0 / $ff);
+var l65B97F98_0=($FFFFFFFF >> 24);
+draw_set_alpha(l65B97F98_0 / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
-/// @DnDHash : 5D6E49F9
+/// @DnDHash : 14C73CE8
 /// @DnDArgument : "font" "Minecraft"
 /// @DnDSaveInfo : "font" "Minecraft"
 draw_set_font(Minecraft);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
-/// @DnDHash : 787F5F49
+/// @DnDHash : 2998D927
 /// @DnDArgument : "x" "176"
 /// @DnDArgument : "y" "330"
 /// @DnDArgument : "caption" ""
