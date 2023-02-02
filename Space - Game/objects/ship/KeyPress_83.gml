@@ -7,3 +7,11 @@
 /// @DnDArgument : "y_relative" "1"
 x += 0;
 y += 32;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 7ACA3A4C
+/// @DnDArgument : "spriteind" "ship_spr_down"
+/// @DnDSaveInfo : "spriteind" "ship_spr_down"
+sprite_index = ship_spr_down;
+image_index = 0;
