@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 51B054DA
+/// @DnDArgument : "spriteind" "ship_spr_left"
+/// @DnDSaveInfo : "spriteind" "ship_spr_left"
+sprite_index = ship_spr_left;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Movement.Jump_To_Point
 /// @DnDVersion : 1
 /// @DnDHash : 1EBBB01B
