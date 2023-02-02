@@ -23,6 +23,7 @@
     {"id":{"name":"planet_1_left","path":"objects/planet_1_left/planet_1_left.yy",},"order":6,},
     {"id":{"name":"planet_2_spr","path":"sprites/planet_2_spr/planet_2_spr.yy",},"order":18,},
     {"id":{"name":"black_hole","path":"objects/black_hole/black_hole.yy",},"order":8,},
+    {"id":{"name":"alert_red_spr","path":"sprites/alert_red_spr/alert_red_spr.yy",},"order":22,},
     {"id":{"name":"enemy_spr","path":"sprites/enemy_spr/enemy_spr.yy",},"order":10,},
     {"id":{"name":"planet_3_spr","path":"sprites/planet_3_spr/planet_3_spr.yy",},"order":17,},
     {"id":{"name":"astroid_2_spr","path":"sprites/astroid_2_spr/astroid_2_spr.yy",},"order":13,},
