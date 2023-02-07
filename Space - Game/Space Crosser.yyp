@@ -8,6 +8,7 @@
     {"id":{"name":"spacer_background_tile","path":"tilesets/spacer_background_tile/spacer_background_tile.yy",},"order":0,},
     {"id":{"name":"Score","path":"objects/Score/Score.yy",},"order":9,},
     {"id":{"name":"Try_Again","path":"objects/Try_Again/Try_Again.yy",},"order":11,},
+    {"id":{"name":"points","path":"objects/points/points.yy",},"order":25,},
     {"id":{"name":"astroid_3_left","path":"objects/astroid_3_left/astroid_3_left.yy",},"order":16,},
     {"id":{"name":"planet_1_right","path":"objects/planet_1_right/planet_1_right.yy",},"order":5,},
     {"id":{"name":"Minecraft","path":"fonts/Minecraft/Minecraft.yy",},"order":0,},
