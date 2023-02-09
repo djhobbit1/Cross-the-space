@@ -1,22 +1,22 @@
 /// @DnDAction : YoYo Games.Drawing.Set_Color
 /// @DnDVersion : 1
-/// @DnDHash : 5054D8CD
+/// @DnDHash : 577A8FC6
 draw_set_colour($FFFFFFFF & $ffffff);
-var l5054D8CD_0=($FFFFFFFF >> 24);
-draw_set_alpha(l5054D8CD_0 / $ff);
+var l577A8FC6_0=($FFFFFFFF >> 24);
+draw_set_alpha(l577A8FC6_0 / $ff);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
-/// @DnDHash : 7DCB88F2
+/// @DnDHash : 24B065A4
 /// @DnDArgument : "font" "Minecraft"
 /// @DnDSaveInfo : "font" "Minecraft"
 draw_set_font(Minecraft);
 
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
+/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
 /// @DnDVersion : 1
-/// @DnDHash : 1512B322
+/// @DnDHash : 77D7D824
 /// @DnDArgument : "x" "10"
 /// @DnDArgument : "y" "9"
 /// @DnDArgument : "caption" ""SCORE: ""
-/// @DnDArgument : "var" "points.global"
-draw_text(10, 9, string("SCORE: ") + string(points.global));
+if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
+draw_text(10, 9, string("SCORE: ") + string(__dnd_score));
