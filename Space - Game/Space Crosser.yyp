@@ -20,7 +20,6 @@
     {"id":{"name":"astroid_1_left","path":"objects/astroid_1_left/astroid_1_left.yy",},"order":12,},
     {"id":{"name":"ship_spr_left","path":"sprites/ship_spr_left/ship_spr_left.yy",},"order":21,},
     {"id":{"name":"astroid_2_left","path":"objects/astroid_2_left/astroid_2_left.yy",},"order":14,},
-    {"id":{"name":"ufo_spr","path":"sprites/ufo_spr/ufo_spr.yy",},"order":23,},
     {"id":{"name":"planet_1_left","path":"objects/planet_1_left/planet_1_left.yy",},"order":6,},
     {"id":{"name":"planet_2_spr","path":"sprites/planet_2_spr/planet_2_spr.yy",},"order":18,},
     {"id":{"name":"black_hole","path":"objects/black_hole/black_hole.yy",},"order":8,},
