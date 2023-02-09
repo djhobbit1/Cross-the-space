@@ -40,7 +40,6 @@
     {"id":{"name":"astroid_4_spr","path":"sprites/astroid_4_spr/astroid_4_spr.yy",},"order":15,},
     {"id":{"name":"scrap_left","path":"objects/scrap_left/scrap_left.yy",},"order":1,},
     {"id":{"name":"background_back","path":"sprites/background_back/background_back.yy",},"order":0,},
-    {"id":{"name":"Ufo","path":"objects/Ufo/Ufo.yy",},"order":24,},
     {"id":{"name":"Medium_Thruster","path":"sprites/Medium_Thruster/Medium_Thruster.yy",},"order":4,},
     {"id":{"name":"planet_3_left","path":"objects/planet_3_left/planet_3_left.yy",},"order":22,},
     {"id":{"name":"ship","path":"objects/ship/ship.yy",},"order":0,},
@@ -61,7 +60,7 @@
     {"id":{"name":"Space_room","path":"rooms/Space_room/Space_room.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
   ],
